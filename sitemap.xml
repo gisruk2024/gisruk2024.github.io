@@ -1,51 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://github.com/gisruk2024/gisruk2024.github.io/ecrs.html</loc>
-    <lastmod>2023-06-09T13:07:12.715Z</lastmod>
+    <loc>https://github.com/gisruk2024/gisruk2024.github.io/cfp/index.html</loc>
+    <lastmod>2023-07-12T11:35:03.797Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/gisruk2024/gisruk2024.github.io/sponsorship/index.html</loc>
+    <lastmod>2023-07-12T11:35:03.181Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/gisruk2024/gisruk2024.github.io/keynotes/index.html</loc>
+    <lastmod>2023-07-12T11:35:02.069Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/gisruk2024/gisruk2024.github.io/index.html</loc>
-    <lastmod>2023-06-09T13:07:13.611Z</lastmod>
+    <lastmod>2023-07-12T11:35:01.149Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/gisruk2024/gisruk2024.github.io/venue.html</loc>
-    <lastmod>2023-06-09T13:07:13.975Z</lastmod>
+    <loc>https://github.com/gisruk2024/gisruk2024.github.io/program/index.html</loc>
+    <lastmod>2023-07-12T11:35:01.777Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/gisruk2024/gisruk2024.github.io/theme.html</loc>
-    <lastmod>2023-06-09T13:07:14.331Z</lastmod>
+    <loc>https://github.com/gisruk2024/gisruk2024.github.io/organisation/index.html</loc>
+    <lastmod>2023-07-12T11:35:02.369Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/gisruk2024/gisruk2024.github.io/cfp.html</loc>
-    <lastmod>2023-06-09T13:07:14.783Z</lastmod>
+    <loc>https://github.com/gisruk2024/gisruk2024.github.io/ecrs/index.html</loc>
+    <lastmod>2023-07-12T11:35:02.909Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/gisruk2024/gisruk2024.github.io/sponsorship.html</loc>
-    <lastmod>2023-06-09T13:07:15.135Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/gisruk2024/gisruk2024.github.io/keynotes.html</loc>
-    <lastmod>2023-06-09T13:07:15.491Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/gisruk2024/gisruk2024.github.io/registration.html</loc>
-    <lastmod>2023-06-09T13:07:15.827Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/gisruk2024/gisruk2024.github.io/participation.html</loc>
-    <lastmod>2023-06-09T13:07:16.167Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/gisruk2024/gisruk2024.github.io/about.html</loc>
-    <lastmod>2023-06-09T13:07:16.539Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/gisruk2024/gisruk2024.github.io/organisation.html</loc>
-    <lastmod>2023-06-09T13:07:16.959Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/gisruk2024/gisruk2024.github.io/program.html</loc>
-    <lastmod>2023-06-09T13:07:17.327Z</lastmod>
+    <loc>https://github.com/gisruk2024/gisruk2024.github.io/registration/index.html</loc>
+    <lastmod>2023-07-12T11:35:03.453Z</lastmod>
   </url>
 </urlset>
