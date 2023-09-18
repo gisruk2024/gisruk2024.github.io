@@ -1,24 +1,24 @@
 [
   {
-    "objectID": "cfp/index.html",
-    "href": "cfp/index.html",
-    "title": "Call for Papers",
-    "section": "",
-    "text": "We are pleased to invite 1500-word extended abstracts for the 32nd Annual GISRUK Conference, to be held 9th – 12th April 2024 at the University of Leeds. The deadline is Monday 8th January 2024 and submission is via EasyChair (details to follow).\nWork presented at GISRUK covers a range of methodological approaches and application areas. We are particularly interested in papers that align with the conference theme – GIS for public good: data, theory, policy – but below is a non-exhaustive list of typical focuses:\nData/Methods\n\nSpatial statistics\nAgent-based models\nOpen data and code\nReproducibility and inference\nUncertainty quantification and analysis\nMachine learning and AI\nData visualization and communication\n\nApplication areas\n\nTransportation and land use\nEnvironment and sustainability\nHealth, neighbourhoods and housing\nCrime analysis\nLabour markets and economic geography\n\nSubmitted abstracts will be assessed by at least two members from the GISRUK 2024 Scientific Committee and selected papers invited for full journal publication as a Special Issue (details to follow).\n\nGuidelines\n\nSubmission is via EasyChair (details to follow).\nSubmissions should be extended abstracts of no more than 1500 words.\nAbstracts must be prepared using one of these templates (MS Word, LaTeX, Quarto).\nAuthors should make efforts towards enabling reproducibility of their work, where possible. GISRUK do not produce specific guidance, but authors may wish to consult relevant documentation from organisations such as AGILE.\nAny queries can be directed to : info@gisruk.org.\n\n\n\nKey dates\n\nPaper submission deadline: Monday 8th January 2024\nPaper review notifications: Monday 12th February 2024"
-  },
-  {
-    "objectID": "sponsorship/index.html",
-    "href": "sponsorship/index.html",
-    "title": "Sponsorship",
+    "objectID": "ecrs/index.html",
+    "href": "ecrs/index.html",
+    "title": "ECR Sessions",
     "section": "",
     "text": "Details to appear soon."
   },
   {
-    "objectID": "keynotes/index.html",
-    "href": "keynotes/index.html",
-    "title": "Keynote Speakers",
+    "objectID": "organisation/index.html",
+    "href": "organisation/index.html",
+    "title": "Organisation",
     "section": "",
-    "text": "Details to come soon."
+    "text": "GISRUK2024 is hosted by the School of Geography, University of Leeds. We have assembled a local organising committee:\n\nRoger Beecham and Will James, School of Geography. Joint conference leads\nArjan Gosal, School of Geography.\nNick Hood, School of Geography.\nVikki Houlden, School of Geography.\nRachel Oldroyd, School of Geography.\nFran Pontin, Leeds Institute for Data Analytics.\nKeiran Suchak, Institute for Transport Studies."
+  },
+  {
+    "objectID": "cfp/index.html",
+    "href": "cfp/index.html",
+    "title": "Call for Papers",
+    "section": "",
+    "text": "We are pleased to invite 1500-word extended abstracts for the 32nd Annual GISRUK Conference, to be held 9th – 12th April 2024 at the University of Leeds. The deadline is Monday 8th January 2024 and submission is via Oxford Abstracts (submission link).\nWork presented at GISRUK covers a range of methodological approaches and application areas. We are particularly interested in papers that align with the conference theme – GIS for public good: data, theory, policy – but below is a non-exhaustive list of typical focuses:\nData/Methods\n\nSpatial statistics\nAgent-based models\nOpen data and code\nReproducibility and inference\nUncertainty quantification and analysis\nMachine learning and AI\nData visualization and communication\n\nApplication areas\n\nTransportation and land use\nEnvironment and sustainability\nHealth, neighbourhoods and housing\nCrime analysis\nLabour markets and economic geography\n\nSubmitted abstracts will be assessed by at least two members from the GISRUK 2024 Scientific Committee.\n\nGuidelines\n\nSubmission is via Oxford Abstracts submission link.\nSubmissions should be extended abstracts of no more than 1500 words.\nAbstracts must be prepared using one of these templates (MS Word, LaTeX, Quarto).\nAuthors should make efforts towards enabling reproducibility of their work, where possible. GISRUK do not produce specific guidance, but authors may wish to consult relevant documentation from organisations such as AGILE.\nAny queries can be directed to : info@gisruk.org.\n\n\n\nKey dates\n\nPaper submission deadline: Monday 8th January 2024\nPaper review notifications: Monday 12th February 2024"
   },
   {
     "objectID": "index.html",
@@ -35,23 +35,9 @@
     "text": "Key Dates\n\nPaper submission deadline: Monday 8th January 2024\nPaper review notifications: Monday 12th February 2024\nRegistration opens: January 2024\nECR workshops: 9th-10th April 2024\nConference: 10th-12th April 2024"
   },
   {
-    "objectID": "program/index.html",
-    "href": "program/index.html",
-    "title": "Conference Programme",
-    "section": "",
-    "text": "Detals to appear soon."
-  },
-  {
-    "objectID": "organisation/index.html",
-    "href": "organisation/index.html",
-    "title": "Organisation",
-    "section": "",
-    "text": "GISRUK2024 is hosted by the School of Geography, University of Leeds. We have assembled a local organising committee:\n\nRoger Beecham and Will James, School of Geography. Joint conference leads\nArjan Gosal, School of Geography.\nNick Hood, School of Geography.\nVikki Houlden, School of Geography.\nRachel Oldroyd, School of Geography.\nFran Pontin, Leeds Institute for Data Analytics.\nKeiran Suchak, Institute for Transport Studies."
-  },
-  {
-    "objectID": "ecrs/index.html",
-    "href": "ecrs/index.html",
-    "title": "ECR Sessions",
+    "objectID": "sponsorship/index.html",
+    "href": "sponsorship/index.html",
+    "title": "Sponsorship",
     "section": "",
     "text": "Details to appear soon."
   },
@@ -61,5 +47,19 @@
     "title": "Registration",
     "section": "",
     "text": "Details to appear soon."
+  },
+  {
+    "objectID": "program/index.html",
+    "href": "program/index.html",
+    "title": "Conference Programme",
+    "section": "",
+    "text": "Detals to appear soon."
+  },
+  {
+    "objectID": "keynotes/index.html",
+    "href": "keynotes/index.html",
+    "title": "Keynote Speakers",
+    "section": "",
+    "text": "Details to come soon."
   }
 ]
