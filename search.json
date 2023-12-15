@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "registration/index.html",
+    "href": "registration/index.html",
+    "title": "Registration",
+    "section": "",
+    "text": "Details to appear soon."
+  },
+  {
+    "objectID": "organisation/index.html",
+    "href": "organisation/index.html",
+    "title": "Organisation",
+    "section": "",
+    "text": "GISRUK2024 is hosted by the School of Geography, University of Leeds. We have assembled a local organising committee:\n\nRoger Beecham and Will James, School of Geography. Joint conference leads\nArjan Gosal, School of Geography.\nNick Hood, School of Geography.\nVikki Houlden, School of Geography.\nRachel Oldroyd, School of Geography.\nFran Pontin, Leeds Institute for Data Analytics.\nKeiran Suchak, School of Geography."
+  },
+  {
     "objectID": "osgeo/index.html",
     "href": "osgeo/index.html",
     "title": "GISRUK & OSGeo:UK GoFundGeo Award",
@@ -28,18 +42,11 @@
     "text": "How to apply\nTo apply, please check the appropriate check box when submitting your GISRUK extended abstract. A selected panel of members of the OSGeo:UK community and GISRUK national steering committee will review the submitted abstracts and presentations to select the recipient. We will then announce the selected recipient at the at the GISRUK conference closing ceremony."
   },
   {
-    "objectID": "sponsorship/index.html",
-    "href": "sponsorship/index.html",
-    "title": "Sponsorship",
+    "objectID": "program/index.html",
+    "href": "program/index.html",
+    "title": "Conference Programme",
     "section": "",
-    "text": "Details to appear soon."
-  },
-  {
-    "objectID": "registration/index.html",
-    "href": "registration/index.html",
-    "title": "Registration",
-    "section": "",
-    "text": "Details to appear soon."
+    "text": "Detals to appear soon."
   },
   {
     "objectID": "keynotes/index.html",
@@ -54,13 +61,6 @@
     "title": "ECR Sessions",
     "section": "",
     "text": "Details to appear soon."
-  },
-  {
-    "objectID": "organisation/index.html",
-    "href": "organisation/index.html",
-    "title": "Organisation",
-    "section": "",
-    "text": "GISRUK2024 is hosted by the School of Geography, University of Leeds. We have assembled a local organising committee:\n\nRoger Beecham and Will James, School of Geography. Joint conference leads\nArjan Gosal, School of Geography.\nNick Hood, School of Geography.\nVikki Houlden, School of Geography.\nRachel Oldroyd, School of Geography.\nFran Pontin, Leeds Institute for Data Analytics.\nKeiran Suchak, Institute for Transport Studies."
   },
   {
     "objectID": "index.html",
@@ -84,10 +84,10 @@
     "text": "We are pleased to invite 1500-word extended abstracts for the 32nd Annual GISRUK Conference, to be held 9th – 12th April 2024 at the University of Leeds. The deadline is Monday 8th January 2024 Friday 19th January 2024 and submission is via Oxford Abstracts (submission link).\nWork presented at GISRUK covers a range of methodological approaches and application areas. We are particularly interested in papers that align with the conference theme – GIS for public good: data, theory, policy – but below is a non-exhaustive list of typical focuses:\nData/Methods\n\nSpatial statistics\nAgent-based models\nOpen data and code\nReproducibility and inference\nUncertainty quantification and analysis\nMachine learning and AI\nData visualization and communication\n\nApplication areas\n\nTransportation and land use\nEnvironment and sustainability\nHealth, neighbourhoods and housing\nCrime analysis\nLabour markets and economic geography\n\nSubmitted abstracts will be assessed by at least two members from the GISRUK 2024 Scientific Committee.\n\nGuidelines\n\nSubmission is via Oxford Abstracts submission link.\nSubmissions should be extended abstracts of no more than 1500 words.\nAbstracts must be prepared using one of these templates (MS Word, LaTeX, Quarto).\nNew: Identify whether you would like your submission to be considered for the GISRUK & OSGeo:UK GoFundGeo Award.\nAuthors should make efforts towards enabling reproducibility of their work, where possible. GISRUK do not produce specific guidance, but authors may wish to consult relevant documentation from organisations such as AGILE.\nAny queries can be directed to : info@gisruk.org.\n\n\n\nKey dates\n\nPaper submission deadline: Monday 8th January 2024 Friday 19th January 2024\nPaper review notifications: Monday 12th February 2024 Monday 19th February 2024"
   },
   {
-    "objectID": "program/index.html",
-    "href": "program/index.html",
-    "title": "Conference Programme",
+    "objectID": "sponsorship/index.html",
+    "href": "sponsorship/index.html",
+    "title": "Sponsorship",
     "section": "",
-    "text": "Detals to appear soon."
+    "text": "Details to appear soon."
   }
 ]

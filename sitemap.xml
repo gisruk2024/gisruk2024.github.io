@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://2024.gisruk.org/osgeo/index.html</loc>
-    <lastmod>2023-12-04T15:10:42.732Z</lastmod>
-  </url>
-  <url>
-    <loc>https://2024.gisruk.org/sponsorship/index.html</loc>
-    <lastmod>2023-12-04T15:10:42.196Z</lastmod>
-  </url>
-  <url>
     <loc>https://2024.gisruk.org/registration/index.html</loc>
-    <lastmod>2023-12-04T15:10:40.616Z</lastmod>
-  </url>
-  <url>
-    <loc>https://2024.gisruk.org/keynotes/index.html</loc>
-    <lastmod>2023-12-04T15:10:40.104Z</lastmod>
-  </url>
-  <url>
-    <loc>https://2024.gisruk.org/ecrs/index.html</loc>
-    <lastmod>2023-12-04T15:10:39.564Z</lastmod>
+    <lastmod>2023-12-15T11:49:07.962Z</lastmod>
   </url>
   <url>
     <loc>https://2024.gisruk.org/organisation/index.html</loc>
-    <lastmod>2023-12-04T15:10:40.368Z</lastmod>
+    <lastmod>2023-12-15T11:49:07.486Z</lastmod>
   </url>
   <url>
-    <loc>https://2024.gisruk.org/index.html</loc>
-    <lastmod>2023-12-04T15:10:40.876Z</lastmod>
-  </url>
-  <url>
-    <loc>https://2024.gisruk.org/cfp/index.html</loc>
-    <lastmod>2023-12-04T15:10:41.408Z</lastmod>
+    <loc>https://2024.gisruk.org/osgeo/index.html</loc>
+    <lastmod>2023-12-15T11:49:06.446Z</lastmod>
   </url>
   <url>
     <loc>https://2024.gisruk.org/program/index.html</loc>
-    <lastmod>2023-12-04T15:10:41.896Z</lastmod>
+    <lastmod>2023-12-15T11:49:05.890Z</lastmod>
+  </url>
+  <url>
+    <loc>https://2024.gisruk.org/keynotes/index.html</loc>
+    <lastmod>2023-12-15T11:49:05.378Z</lastmod>
+  </url>
+  <url>
+    <loc>https://2024.gisruk.org/ecrs/index.html</loc>
+    <lastmod>2023-12-15T11:49:05.634Z</lastmod>
+  </url>
+  <url>
+    <loc>https://2024.gisruk.org/index.html</loc>
+    <lastmod>2023-12-15T11:49:06.162Z</lastmod>
+  </url>
+  <url>
+    <loc>https://2024.gisruk.org/cfp/index.html</loc>
+    <lastmod>2023-12-15T11:49:07.230Z</lastmod>
+  </url>
+  <url>
+    <loc>https://2024.gisruk.org/sponsorship/index.html</loc>
+    <lastmod>2023-12-15T11:49:07.722Z</lastmod>
   </url>
 </urlset>
