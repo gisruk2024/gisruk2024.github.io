@@ -2,42 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://2024.gisruk.org/registration/index.html</loc>
-    <lastmod>2023-12-19T16:12:49.270Z</lastmod>
+    <lastmod>2023-12-21T12:57:54.920Z</lastmod>
   </url>
   <url>
     <loc>https://2024.gisruk.org/organisation/index.html</loc>
-    <lastmod>2023-12-19T16:12:48.782Z</lastmod>
+    <lastmod>2023-12-21T12:57:54.432Z</lastmod>
   </url>
   <url>
-    <loc>https://2024.gisruk.org/venue/index.html</loc>
-    <lastmod>2023-12-19T16:12:48.210Z</lastmod>
-  </url>
-  <url>
-    <loc>https://2024.gisruk.org/osgeo/index.html</loc>
-    <lastmod>2023-12-19T16:12:47.742Z</lastmod>
-  </url>
-  <url>
-    <loc>https://2024.gisruk.org/program/index.html</loc>
-    <lastmod>2023-12-19T16:12:47.206Z</lastmod>
-  </url>
-  <url>
-    <loc>https://2024.gisruk.org/keynotes/index.html</loc>
-    <lastmod>2023-12-19T16:12:46.706Z</lastmod>
-  </url>
-  <url>
-    <loc>https://2024.gisruk.org/ecrs/index.html</loc>
-    <lastmod>2023-12-19T16:12:46.958Z</lastmod>
+    <loc>https://2024.gisruk.org/si/index.html</loc>
+    <lastmod>2023-12-21T12:57:53.816Z</lastmod>
   </url>
   <url>
     <loc>https://2024.gisruk.org/index.html</loc>
-    <lastmod>2023-12-19T16:12:47.458Z</lastmod>
+    <lastmod>2023-12-21T12:57:52.688Z</lastmod>
+  </url>
+  <url>
+    <loc>https://2024.gisruk.org/ecrs/index.html</loc>
+    <lastmod>2023-12-21T12:57:52.152Z</lastmod>
+  </url>
+  <url>
+    <loc>https://2024.gisruk.org/keynotes/index.html</loc>
+    <lastmod>2023-12-21T12:57:51.868Z</lastmod>
+  </url>
+  <url>
+    <loc>https://2024.gisruk.org/program/index.html</loc>
+    <lastmod>2023-12-21T12:57:52.416Z</lastmod>
+  </url>
+  <url>
+    <loc>https://2024.gisruk.org/osgeo/index.html</loc>
+    <lastmod>2023-12-21T12:57:53.032Z</lastmod>
+  </url>
+  <url>
+    <loc>https://2024.gisruk.org/venue/index.html</loc>
+    <lastmod>2023-12-21T12:57:53.548Z</lastmod>
   </url>
   <url>
     <loc>https://2024.gisruk.org/cfp/index.html</loc>
-    <lastmod>2023-12-19T16:12:48.514Z</lastmod>
+    <lastmod>2023-12-21T12:57:54.152Z</lastmod>
   </url>
   <url>
     <loc>https://2024.gisruk.org/sponsorship/index.html</loc>
-    <lastmod>2023-12-19T16:12:49.034Z</lastmod>
+    <lastmod>2023-12-21T12:57:54.668Z</lastmod>
   </url>
 </urlset>
