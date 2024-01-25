@@ -1,17 +1,31 @@
 [
   {
-    "objectID": "registration/index.html",
-    "href": "registration/index.html",
-    "title": "Registration",
+    "objectID": "venue/index.html",
+    "href": "venue/index.html",
+    "title": "Venue",
     "section": "",
-    "text": "Details to appear soon."
+    "text": "Cloth Hall Court, Quebec Street, LS1 2HA\n\n\nThis year’s GISRUK will be held at Cloth Hall Court, which is a conference and events venue located in Leeds. It is situated in the heart of the city, close to Leeds Train Station.\nMore information about the venue can be found here."
   },
   {
-    "objectID": "organisation/index.html",
-    "href": "organisation/index.html",
-    "title": "Organisation",
+    "objectID": "venue/index.html#conference-venue-cloth-hall-court",
+    "href": "venue/index.html#conference-venue-cloth-hall-court",
+    "title": "Venue",
     "section": "",
-    "text": "GISRUK2024 is hosted by the School of Geography, University of Leeds. We have assembled a local organising committee:\n\nRoger Beecham and Will James, School of Geography. Joint conference leads\nArjan Gosal, School of Geography.\nNick Hood, School of Geography.\nVikki Houlden, School of Geography.\nRachel Oldroyd, School of Geography.\nFran Pontin, Leeds Institute for Data Analytics.\nKeiran Suchak, School of Geography."
+    "text": "Cloth Hall Court, Quebec Street, LS1 2HA\n\n\nThis year’s GISRUK will be held at Cloth Hall Court, which is a conference and events venue located in Leeds. It is situated in the heart of the city, close to Leeds Train Station.\nMore information about the venue can be found here."
+  },
+  {
+    "objectID": "venue/index.html#dinner-venue-the-faversham",
+    "href": "venue/index.html#dinner-venue-the-faversham",
+    "title": "Venue",
+    "section": "Dinner Venue: The Faversham",
+    "text": "Dinner Venue: The Faversham\n\nThe Faversham, 1-5 Springfield Mount, LS2 9NG\n\nThe conference dinner will be hosted at The Faversham, which is located close to the University of Leeds."
+  },
+  {
+    "objectID": "venue/index.html#map-of-locations",
+    "href": "venue/index.html#map-of-locations",
+    "title": "Venue",
+    "section": "Map of Locations",
+    "text": "Map of Locations"
   },
   {
     "objectID": "si/index.html",
@@ -21,39 +35,11 @@
     "text": "Details to appear soon."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "GISRUK 2024 : University of Leeds",
-    "section": "",
-    "text": "LIVE : Important Update, 19th Jan 2024\n\n\n\nEDIT: The submission system is now fixed and up and running. Please submit as soon as you can, but we’ll of course honour the extended deadline.\nWe have been made aware of some issues with uploading files on Oxford Abstracts – we are trying to fix these and have extended the deadline to 5pm on Monday 22nd Jan 2024. \nVery sorry for the inconvenience. Please spread the word – and hopefully we’ll be all sorted on Monday!\nWelcome to the 32nd Annual GIS Research UK Conference. The conference will be hosted at University of Leeds on 9th – 12th April 2024.\nGISRUK attracts international researchers and practitioners in GIS and related fields to share and discuss the latest advances in spatial computing and analysis. The work presented at GISRUK covers a range of methodological approaches and application areas, including: geographic data science, geocomputation, applied statistics, geography, health, urban and transport planning, crime science.\nWe welcome papers covering all aspects of GIS, both methodological and applied. There is also a theme for the 2024 conference – GIS for public good: data, theory, policy – around which keynotes and other activity will be structured.\nSee the Call for papers for details on how to submit.\nNew. We have agreed a Special Issue linked to the conference with Environment & Planning B: Urban Data/Code. Details to follow, but we will be encouraging discrete Data/Code products that relate to the conference theme: GIS for public good: data, theory, policy. For information on the Urban Data/Code section, see Arribas-Bel et al.’s (2021) editorial."
-  },
-  {
-    "objectID": "index.html#key-dates",
-    "href": "index.html#key-dates",
-    "title": "GISRUK 2024 : University of Leeds",
-    "section": "Key Dates",
-    "text": "Key Dates\n\nPaper submission deadline: Monday 8th January 2024 Friday 19th January 2024\nPaper review notifications: Monday 12th February 2024 Monday 19th February 2024\nRegistration opens: January 2024\nECR workshops: 9th-10th April 2024\nConference: 10th-12th April 2024"
-  },
-  {
     "objectID": "ecrs/index.html",
     "href": "ecrs/index.html",
     "title": "ECR Sessions",
     "section": "",
     "text": "Details to appear soon."
-  },
-  {
-    "objectID": "keynotes/index.html",
-    "href": "keynotes/index.html",
-    "title": "Keynote Speakers",
-    "section": "",
-    "text": "Details to come soon."
-  },
-  {
-    "objectID": "program/index.html",
-    "href": "program/index.html",
-    "title": "Conference Programme",
-    "section": "",
-    "text": "Detals to appear soon."
   },
   {
     "objectID": "osgeo/index.html",
@@ -84,32 +70,32 @@
     "text": "How to apply\nTo apply, please check the appropriate check box when submitting your GISRUK extended abstract. A selected panel of members of the OSGeo:UK community and GISRUK national steering committee will review the submitted abstracts and presentations to select the recipient. We will then announce the selected recipient at the at the GISRUK conference closing ceremony."
   },
   {
-    "objectID": "venue/index.html",
-    "href": "venue/index.html",
-    "title": "Venue",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "GISRUK 2024 : University of Leeds",
     "section": "",
-    "text": "Cloth Hall Court, Quebec Street, LS1 2HA\n\n\nThis year’s GISRUK will be held at Cloth Hall Court, which is a conference and events venue located in Leeds. It is situated in the heart of the city, close to Leeds Train Station.\nMore information about the venue can be found here."
+    "text": "LIVE : Important Update, 19th Jan 2024\n\n\n\nEDIT: The submission system is now fixed and up and running. Please submit as soon as you can, but we’ll of course honour the extended deadline.\nWe have been made aware of some issues with uploading files on Oxford Abstracts – we are trying to fix these and have extended the deadline to 5pm on Monday 22nd Jan 2024. \nVery sorry for the inconvenience. Please spread the word – and hopefully we’ll be all sorted on Monday!\nWelcome to the 32nd Annual GIS Research UK Conference. The conference will be hosted at University of Leeds on 9th – 12th April 2024.\nGISRUK attracts international researchers and practitioners in GIS and related fields to share and discuss the latest advances in spatial computing and analysis. The work presented at GISRUK covers a range of methodological approaches and application areas, including: geographic data science, geocomputation, applied statistics, geography, health, urban and transport planning, crime science.\nWe welcome papers covering all aspects of GIS, both methodological and applied. There is also a theme for the 2024 conference – GIS for public good: data, theory, policy – around which keynotes and other activity will be structured.\nSee the Call for papers for details on how to submit.\nNew. We have agreed a Special Issue linked to the conference with Environment & Planning B: Urban Data/Code. Details to follow, but we will be encouraging discrete Data/Code products that relate to the conference theme: GIS for public good: data, theory, policy. For information on the Urban Data/Code section, see Arribas-Bel et al.’s (2021) editorial."
   },
   {
-    "objectID": "venue/index.html#conference-venue-cloth-hall-court",
-    "href": "venue/index.html#conference-venue-cloth-hall-court",
-    "title": "Venue",
+    "objectID": "index.html#key-dates",
+    "href": "index.html#key-dates",
+    "title": "GISRUK 2024 : University of Leeds",
+    "section": "Key Dates",
+    "text": "Key Dates\n\nPaper submission deadline: Monday 8th January 2024 Friday 19th January 2024\nPaper review notifications: Monday 12th February 2024 Monday 19th February 2024\nRegistration opens: January 2024\nECR workshops: 9th-10th April 2024\nConference: 10th-12th April 2024"
+  },
+  {
+    "objectID": "keynotes/index.html",
+    "href": "keynotes/index.html",
+    "title": "Keynote Speakers",
     "section": "",
-    "text": "Cloth Hall Court, Quebec Street, LS1 2HA\n\n\nThis year’s GISRUK will be held at Cloth Hall Court, which is a conference and events venue located in Leeds. It is situated in the heart of the city, close to Leeds Train Station.\nMore information about the venue can be found here."
+    "text": "Details to come soon."
   },
   {
-    "objectID": "venue/index.html#dinner-venue-the-faversham",
-    "href": "venue/index.html#dinner-venue-the-faversham",
-    "title": "Venue",
-    "section": "Dinner Venue: The Faversham",
-    "text": "Dinner Venue: The Faversham\n\nThe Faversham, 1-5 Springfield Mount, LS2 9NG\n\nThe conference dinner will be hosted at The Faversham, which is located close to the University of Leeds."
-  },
-  {
-    "objectID": "venue/index.html#map-of-locations",
-    "href": "venue/index.html#map-of-locations",
-    "title": "Venue",
-    "section": "Map of Locations",
-    "text": "Map of Locations"
+    "objectID": "sponsorship/index.html",
+    "href": "sponsorship/index.html",
+    "title": "Sponsorship",
+    "section": "",
+    "text": "Details to appear soon."
   },
   {
     "objectID": "cfp/index.html",
@@ -119,10 +105,24 @@
     "text": "LIVE : Important Update, 19th Jan 2024\n\n\n\nEDIT: The submission system is now fixed and up and running. Please submit as soon as you can, but we’ll of course honour the extended deadline.\nWe have been made aware of some issues with uploading files on Oxford Abstracts – we are trying to fix these and have extended the deadline to 5pm on Monday 22nd Jan 2024. \nVery sorry for the inconvenience. Please spread the word – and hopefully we’ll be all sorted on Monday! \n\n\nWe are pleased to invite 1500-word extended abstracts for the 32nd Annual GISRUK Conference, to be held 9th – 12th April 2024 at the University of Leeds. The deadline is Monday 8th January 2024 Friday 19th January 2024 and submission is via Oxford Abstracts (submission link).\nWork presented at GISRUK covers a range of methodological approaches and application areas. We are particularly interested in papers that align with the conference theme – GIS for public good: data, theory, policy – but below is a non-exhaustive list of typical focuses:\nData/Methods\n\nSpatial statistics\nAgent-based models\nOpen data and code\nReproducibility and inference\nUncertainty quantification and analysis\nMachine learning and AI\nData visualization and communication\n\nApplication areas\n\nTransportation and land use\nEnvironment and sustainability\nHealth, neighbourhoods and housing\nCrime analysis\nLabour markets and economic geography\n\nSubmitted abstracts will be assessed by at least two members from the GISRUK 2024 Scientific Committee.\nNew. We have agreed a Special Issue linked to the conference with Environment & Planning B: Urban Data/Code. Details to follow, but we will be encouraging discrete Data/Code products that relate to the conference theme: GIS for public good: data, theory, policy. For information on the Urban Data/Code section of E&P B, see Arribas-Bel et al.’s (2021) editorial.\n\nGuidelines\n\nSubmission is via Oxford Abstracts submission link.\nSubmissions should be extended abstracts of no more than 1500 words.\nAbstracts must be prepared using one of these templates (MS Word, LaTeX, Quarto).\nNew: Identify whether you would like your submission to be considered for the GISRUK & OSGeo:UK GoFundGeo Award.\nAuthors should make efforts towards enabling reproducibility of their work, where possible. GISRUK do not produce specific guidance, but authors may wish to consult relevant documentation from organisations such as AGILE.\nAny queries can be directed to : info@gisruk.org.\n\n\n\nKey dates\n\nPaper submission deadline: Monday 8th January 2024 Friday 19th January 2024\nPaper review notifications: Monday 12th February 2024 Monday 19th February 2024"
   },
   {
-    "objectID": "sponsorship/index.html",
-    "href": "sponsorship/index.html",
-    "title": "Sponsorship",
+    "objectID": "organisation/index.html",
+    "href": "organisation/index.html",
+    "title": "Organisation",
+    "section": "",
+    "text": "GISRUK2024 is hosted by the School of Geography, University of Leeds. We have assembled a local organising committee:\n\nRoger Beecham and Will James, School of Geography. Joint conference leads\nArjan Gosal, School of Geography.\nNick Hood, School of Geography.\nVikki Houlden, School of Geography.\nRachel Oldroyd, School of Geography.\nFran Pontin, Leeds Institute for Data Analytics.\nKeiran Suchak, School of Geography."
+  },
+  {
+    "objectID": "registration/index.html",
+    "href": "registration/index.html",
+    "title": "Registration",
     "section": "",
     "text": "Details to appear soon."
+  },
+  {
+    "objectID": "program/index.html",
+    "href": "program/index.html",
+    "title": "Conference Programme",
+    "section": "",
+    "text": "Detals to appear soon."
   }
 ]

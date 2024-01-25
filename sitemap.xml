@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://2024.gisruk.org/registration/index.html</loc>
-    <lastmod>2024-01-23T15:37:39.734Z</lastmod>
-  </url>
-  <url>
-    <loc>https://2024.gisruk.org/organisation/index.html</loc>
-    <lastmod>2024-01-23T15:37:39.282Z</lastmod>
+    <loc>https://2024.gisruk.org/venue/index.html</loc>
+    <lastmod>2024-01-25T15:40:06.451Z</lastmod>
   </url>
   <url>
     <loc>https://2024.gisruk.org/si/index.html</loc>
-    <lastmod>2024-01-23T15:37:38.682Z</lastmod>
-  </url>
-  <url>
-    <loc>https://2024.gisruk.org/index.html</loc>
-    <lastmod>2024-01-23T15:37:37.678Z</lastmod>
+    <lastmod>2024-01-25T15:40:06.451Z</lastmod>
   </url>
   <url>
     <loc>https://2024.gisruk.org/ecrs/index.html</loc>
-    <lastmod>2024-01-23T15:37:37.134Z</lastmod>
-  </url>
-  <url>
-    <loc>https://2024.gisruk.org/keynotes/index.html</loc>
-    <lastmod>2024-01-23T15:37:36.878Z</lastmod>
-  </url>
-  <url>
-    <loc>https://2024.gisruk.org/program/index.html</loc>
-    <lastmod>2024-01-23T15:37:37.390Z</lastmod>
+    <lastmod>2024-01-25T15:40:06.379Z</lastmod>
   </url>
   <url>
     <loc>https://2024.gisruk.org/osgeo/index.html</loc>
-    <lastmod>2024-01-23T15:37:37.962Z</lastmod>
+    <lastmod>2024-01-25T15:40:06.451Z</lastmod>
   </url>
   <url>
-    <loc>https://2024.gisruk.org/venue/index.html</loc>
-    <lastmod>2024-01-23T15:37:38.438Z</lastmod>
+    <loc>https://2024.gisruk.org/index.html</loc>
+    <lastmod>2024-01-25T15:40:06.451Z</lastmod>
   </url>
   <url>
-    <loc>https://2024.gisruk.org/cfp/index.html</loc>
-    <lastmod>2024-01-23T15:37:39.026Z</lastmod>
+    <loc>https://2024.gisruk.org/keynotes/index.html</loc>
+    <lastmod>2024-01-25T15:40:06.451Z</lastmod>
   </url>
   <url>
     <loc>https://2024.gisruk.org/sponsorship/index.html</loc>
-    <lastmod>2024-01-23T15:37:39.506Z</lastmod>
+    <lastmod>2024-01-25T15:40:06.451Z</lastmod>
+  </url>
+  <url>
+    <loc>https://2024.gisruk.org/cfp/index.html</loc>
+    <lastmod>2024-01-25T15:40:06.379Z</lastmod>
+  </url>
+  <url>
+    <loc>https://2024.gisruk.org/organisation/index.html</loc>
+    <lastmod>2024-01-25T15:40:06.451Z</lastmod>
+  </url>
+  <url>
+    <loc>https://2024.gisruk.org/registration/index.html</loc>
+    <lastmod>2024-01-25T15:40:06.451Z</lastmod>
+  </url>
+  <url>
+    <loc>https://2024.gisruk.org/program/index.html</loc>
+    <lastmod>2024-01-25T15:40:06.451Z</lastmod>
   </url>
 </urlset>
