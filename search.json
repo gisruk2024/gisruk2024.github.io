@@ -1,5 +1,54 @@
 [
   {
+    "objectID": "keynotes/index.html",
+    "href": "keynotes/index.html",
+    "title": "Keynote Speakers",
+    "section": "",
+    "text": "Details to come soon."
+  },
+  {
+    "objectID": "program/index.html",
+    "href": "program/index.html",
+    "title": "Conference Programme",
+    "section": "",
+    "text": "Detals to appear soon."
+  },
+  {
+    "objectID": "cfp/index.html",
+    "href": "cfp/index.html",
+    "title": "Call for Papers",
+    "section": "",
+    "text": "We are pleased to invite 1500-word extended abstracts for the 32nd Annual GISRUK Conference, to be held 9th – 12th April 2024 at the University of Leeds. The deadline is Monday 8th January 2024 Friday 19th January 2024 and submission is via Oxford Abstracts (submission link).\nWork presented at GISRUK covers a range of methodological approaches and application areas. We are particularly interested in papers that align with the conference theme – GIS for public good: data, theory, policy – but below is a non-exhaustive list of typical focuses:\nData/Methods\n\nSpatial statistics\nAgent-based models\nOpen data and code\nReproducibility and inference\nUncertainty quantification and analysis\nMachine learning and AI\nData visualization and communication\n\nApplication areas\n\nTransportation and land use\nEnvironment and sustainability\nHealth, neighbourhoods and housing\nCrime analysis\nLabour markets and economic geography\n\nSubmitted abstracts will be assessed by at least two members from the GISRUK 2024 Scientific Committee.\nNew. We have agreed a Special Issue linked to the conference with Environment & Planning B: Urban Data/Code. Details to follow, but we will be encouraging discrete Data/Code products that relate to the conference theme: GIS for public good: data, theory, policy. For information on the Urban Data/Code section of E&P B, see Arribas-Bel et al.’s (2021) editorial.\n\nGuidelines\n\nSubmission is via Oxford Abstracts submission link.\nSubmissions should be extended abstracts of no more than 1500 words.\nAbstracts must be prepared using one of these templates (MS Word, LaTeX, Quarto).\nNew: Identify whether you would like your submission to be considered for the GISRUK & OSGeo:UK GoFundGeo Award.\nAuthors should make efforts towards enabling reproducibility of their work, where possible. GISRUK do not produce specific guidance, but authors may wish to consult relevant documentation from organisations such as AGILE.\nAny queries can be directed to : info@gisruk.org.\n\n\n\nKey dates\n\nPaper submission deadline: Monday 8th January 2024 Friday 19th January 2024\nPaper review notifications: Monday 12th February 2024 Monday 19th February 2024"
+  },
+  {
+    "objectID": "osgeo/index.html",
+    "href": "osgeo/index.html",
+    "title": "GISRUK & OSGeo:UK GoFundGeo Award",
+    "section": "",
+    "text": "GISRUK and OSGeo:UK are co-funding a GoFundGeo grant of £500 that will be offered to one GISRUK presenter who presents a tool or technique that has potential for wide uptake in the open source geospatial (OSGeo) community. The purpose of the grant is to help the recipient to make their approach easily adoptable through the provision of open source code repository and/or tool (e.g. a QGIS plugin). This grant is open to all, but with a focus on ECRs.\nThis is the first time that this grant has been awarded, but we envisage that likely candidates will be GISRUK presenters (oral or poster) who have either developed some code (e.g., a Python/R script or library, a plugin for QGIS or some standalone software etc.); or a method / technique that has the clear potential to be turned into some code. In either case, we are looking for a submission with the potential to be used widely in the open source geospatial community in the UK and globally."
+  },
+  {
+    "objectID": "osgeo/index.html#the-award",
+    "href": "osgeo/index.html#the-award",
+    "title": "GISRUK & OSGeo:UK GoFundGeo Award",
+    "section": "",
+    "text": "GISRUK and OSGeo:UK are co-funding a GoFundGeo grant of £500 that will be offered to one GISRUK presenter who presents a tool or technique that has potential for wide uptake in the open source geospatial (OSGeo) community. The purpose of the grant is to help the recipient to make their approach easily adoptable through the provision of open source code repository and/or tool (e.g. a QGIS plugin). This grant is open to all, but with a focus on ECRs.\nThis is the first time that this grant has been awarded, but we envisage that likely candidates will be GISRUK presenters (oral or poster) who have either developed some code (e.g., a Python/R script or library, a plugin for QGIS or some standalone software etc.); or a method / technique that has the clear potential to be turned into some code. In either case, we are looking for a submission with the potential to be used widely in the open source geospatial community in the UK and globally."
+  },
+  {
+    "objectID": "osgeo/index.html#expectations-of-the-recipient",
+    "href": "osgeo/index.html#expectations-of-the-recipient",
+    "title": "GISRUK & OSGeo:UK GoFundGeo Award",
+    "section": "Expectations of the recipient",
+    "text": "Expectations of the recipient\nIf you agree to this we will expect you to:\n\nMake the code available with an open source licence (open source initiative approved) and present it in some reusable form (e.g., via GitHub).\nApply to be a OSGeo Community project. We will support you with this process. If you wish to progress to a full OSGeo Project and undertake the incubation process you can, but this is not required.\nSubmit a talk to the next FOSS4G:UK conference to present the software / library you have developed. You are also welcome to apply to present at FOSS4G, the international conference series.\nProvide an update of your progress / outputs (approx 1 year after the funding). e.g., a presentation at GISRUK or a GISRUK webinar.\n\nWe will support you with this and help you with the process of applying to be an OSGeo Community Project and submit a Talk to FOSS4G:UK."
+  },
+  {
+    "objectID": "osgeo/index.html#how-to-apply",
+    "href": "osgeo/index.html#how-to-apply",
+    "title": "GISRUK & OSGeo:UK GoFundGeo Award",
+    "section": "How to apply",
+    "text": "How to apply\nTo apply, please check the appropriate check box when submitting your GISRUK extended abstract. A selected panel of members of the OSGeo:UK community and GISRUK national steering committee will review the submitted abstracts and presentations to select the recipient. We will then announce the selected recipient at the at the GISRUK conference closing ceremony."
+  },
+  {
     "objectID": "venue/index.html",
     "href": "venue/index.html",
     "title": "Venue",
@@ -32,77 +81,7 @@
     "href": "si/index.html",
     "title": "SI with E&P B Urban Data/Code",
     "section": "",
-    "text": "Details to appear soon."
-  },
-  {
-    "objectID": "ecrs/index.html",
-    "href": "ecrs/index.html",
-    "title": "ECR Sessions",
-    "section": "",
-    "text": "Details to appear soon."
-  },
-  {
-    "objectID": "osgeo/index.html",
-    "href": "osgeo/index.html",
-    "title": "GISRUK & OSGeo:UK GoFundGeo Award",
-    "section": "",
-    "text": "GISRUK and OSGeo:UK are co-funding a GoFundGeo grant of £500 that will be offered to one GISRUK presenter who presents a tool or technique that has potential for wide uptake in the open source geospatial (OSGeo) community. The purpose of the grant is to help the recipient to make their approach easily adoptable through the provision of open source code repository and/or tool (e.g. a QGIS plugin). This grant is open to all, but with a focus on ECRs.\nThis is the first time that this grant has been awarded, but we envisage that likely candidates will be GISRUK presenters (oral or poster) who have either developed some code (e.g., a Python/R script or library, a plugin for QGIS or some standalone software etc.); or a method / technique that has the clear potential to be turned into some code. In either case, we are looking for a submission with the potential to be used widely in the open source geospatial community in the UK and globally."
-  },
-  {
-    "objectID": "osgeo/index.html#the-award",
-    "href": "osgeo/index.html#the-award",
-    "title": "GISRUK & OSGeo:UK GoFundGeo Award",
-    "section": "",
-    "text": "GISRUK and OSGeo:UK are co-funding a GoFundGeo grant of £500 that will be offered to one GISRUK presenter who presents a tool or technique that has potential for wide uptake in the open source geospatial (OSGeo) community. The purpose of the grant is to help the recipient to make their approach easily adoptable through the provision of open source code repository and/or tool (e.g. a QGIS plugin). This grant is open to all, but with a focus on ECRs.\nThis is the first time that this grant has been awarded, but we envisage that likely candidates will be GISRUK presenters (oral or poster) who have either developed some code (e.g., a Python/R script or library, a plugin for QGIS or some standalone software etc.); or a method / technique that has the clear potential to be turned into some code. In either case, we are looking for a submission with the potential to be used widely in the open source geospatial community in the UK and globally."
-  },
-  {
-    "objectID": "osgeo/index.html#expectations-of-the-recipient",
-    "href": "osgeo/index.html#expectations-of-the-recipient",
-    "title": "GISRUK & OSGeo:UK GoFundGeo Award",
-    "section": "Expectations of the recipient",
-    "text": "Expectations of the recipient\nIf you agree to this we will expect you to:\n\nMake the code available with an open source licence (open source initiative approved) and present it in some reusable form (e.g., via GitHub).\nApply to be a OSGeo Community project. We will support you with this process. If you wish to progress to a full OSGeo Project and undertake the incubation process you can, but this is not required.\nSubmit a talk to the next FOSS4G:UK conference to present the software / library you have developed. You are also welcome to apply to present at FOSS4G, the international conference series.\nProvide an update of your progress / outputs (approx 1 year after the funding). e.g., a presentation at GISRUK or a GISRUK webinar.\n\nWe will support you with this and help you with the process of applying to be an OSGeo Community Project and submit a Talk to FOSS4G:UK."
-  },
-  {
-    "objectID": "osgeo/index.html#how-to-apply",
-    "href": "osgeo/index.html#how-to-apply",
-    "title": "GISRUK & OSGeo:UK GoFundGeo Award",
-    "section": "How to apply",
-    "text": "How to apply\nTo apply, please check the appropriate check box when submitting your GISRUK extended abstract. A selected panel of members of the OSGeo:UK community and GISRUK national steering committee will review the submitted abstracts and presentations to select the recipient. We will then announce the selected recipient at the at the GISRUK conference closing ceremony."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "GISRUK 2024 : University of Leeds",
-    "section": "",
-    "text": "Welcome to the 32nd Annual GIS Research UK Conference. The conference will be hosted at University of Leeds on 9th – 12th April 2024.\nGISRUK attracts international researchers and practitioners in GIS and related fields to share and discuss the latest advances in spatial computing and analysis. The work presented at GISRUK covers a range of methodological approaches and application areas, including: geographic data science, geocomputation, applied statistics, geography, health, urban and transport planning, crime science.\nWe welcome papers covering all aspects of GIS, both methodological and applied. There is also a theme for the 2024 conference – GIS for public good: data, theory, policy – around which keynotes and other activity will be structured.\nSee the Call for papers for details on how to submit.\nNew. We have agreed a Special Issue linked to the conference with Environment & Planning B: Urban Data/Code. Details to follow, but we will be encouraging discrete Data/Code products that relate to the conference theme: GIS for public good: data, theory, policy. For information on the Urban Data/Code section, see Arribas-Bel et al.’s (2021) editorial."
-  },
-  {
-    "objectID": "index.html#key-dates",
-    "href": "index.html#key-dates",
-    "title": "GISRUK 2024 : University of Leeds",
-    "section": "Key Dates",
-    "text": "Key Dates\n\nPaper submission deadline: Monday 8th January 2024 Friday 19th January 2024\nPaper review notifications: Monday 12th February 2024 Monday 19th February 2024\nRegistration opens: January 2024\nECR workshops: 9th-10th April 2024\nConference: 10th-12th April 2024"
-  },
-  {
-    "objectID": "keynotes/index.html",
-    "href": "keynotes/index.html",
-    "title": "Keynote Speakers",
-    "section": "",
-    "text": "Details to come soon."
-  },
-  {
-    "objectID": "sponsorship/index.html",
-    "href": "sponsorship/index.html",
-    "title": "Sponsorship",
-    "section": "",
-    "text": "Details to appear soon."
-  },
-  {
-    "objectID": "cfp/index.html",
-    "href": "cfp/index.html",
-    "title": "Call for Papers",
-    "section": "",
-    "text": "We are pleased to invite 1500-word extended abstracts for the 32nd Annual GISRUK Conference, to be held 9th – 12th April 2024 at the University of Leeds. The deadline is Monday 8th January 2024 Friday 19th January 2024 and submission is via Oxford Abstracts (submission link).\nWork presented at GISRUK covers a range of methodological approaches and application areas. We are particularly interested in papers that align with the conference theme – GIS for public good: data, theory, policy – but below is a non-exhaustive list of typical focuses:\nData/Methods\n\nSpatial statistics\nAgent-based models\nOpen data and code\nReproducibility and inference\nUncertainty quantification and analysis\nMachine learning and AI\nData visualization and communication\n\nApplication areas\n\nTransportation and land use\nEnvironment and sustainability\nHealth, neighbourhoods and housing\nCrime analysis\nLabour markets and economic geography\n\nSubmitted abstracts will be assessed by at least two members from the GISRUK 2024 Scientific Committee.\nNew. We have agreed a Special Issue linked to the conference with Environment & Planning B: Urban Data/Code. Details to follow, but we will be encouraging discrete Data/Code products that relate to the conference theme: GIS for public good: data, theory, policy. For information on the Urban Data/Code section of E&P B, see Arribas-Bel et al.’s (2021) editorial.\n\nGuidelines\n\nSubmission is via Oxford Abstracts submission link.\nSubmissions should be extended abstracts of no more than 1500 words.\nAbstracts must be prepared using one of these templates (MS Word, LaTeX, Quarto).\nNew: Identify whether you would like your submission to be considered for the GISRUK & OSGeo:UK GoFundGeo Award.\nAuthors should make efforts towards enabling reproducibility of their work, where possible. GISRUK do not produce specific guidance, but authors may wish to consult relevant documentation from organisations such as AGILE.\nAny queries can be directed to : info@gisruk.org.\n\n\n\nKey dates\n\nPaper submission deadline: Monday 8th January 2024 Friday 19th January 2024\nPaper review notifications: Monday 12th February 2024 Monday 19th February 2024"
+    "text": "For over 30 years the annual GISRUK conference has showcased discrete research projects that contribute new theories, methods and insights to a very wide set of spatial analysis problems and application areas. A characteristic of most GISRUK submissions, even commentaries and perspective pieces (cf. Chris Brunsdon’s 2023 keynote on Bayes, Ulam and Missingness), is that they are underpinned by some new and interesting dataset and/or computational technique. Many GISRUK authors make a habit of publishing their code and data via open platforms (Figshare, Dataverse, Github, CRAN, pypi). The importance of this activity – open data and methods – is nowadays taken-for-granted in the GISRUK community. However, mechanisms for incentivising and formalising it are perhaps less well-established.\nWith this Special Issue, we invite GISRUK authors to document the code and/or data underpinning their work. We encourage submissions featured either at the latest 2024 conference or those appearing in the recent past and certainly submissions that extend and expand upon early work presented at GISRUK.\nEdited by Roger Beecham (School of Geography and Leeds Institute for Data Analytics, University of Leeds, r.j.beecham@leeds.ac.uk), Arjan Gosal, Nick Hood, Vikki Houlden, Will James, Rachel Oldroyd, Keiran Suchak (School of Geography, University of Leeds), Fran Pontin (Leeds Institute for Data Analytics and School of Geography, University of Leeds) and Jonny Huck (Department of Geography, University of Manchester)."
   },
   {
     "objectID": "organisation/index.html",
@@ -112,17 +91,31 @@
     "text": "GISRUK2024 is hosted by the School of Geography, University of Leeds. We have assembled a local organising committee:\n\nRoger Beecham and Will James, School of Geography. Joint conference leads\nArjan Gosal, School of Geography.\nNick Hood, School of Geography.\nVikki Houlden, School of Geography.\nRachel Oldroyd, School of Geography.\nFran Pontin, Leeds Institute for Data Analytics.\nKeiran Suchak, School of Geography."
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "GISRUK 2024 : University of Leeds",
+    "section": "",
+    "text": "Welcome to the 32nd Annual GIS Research UK Conference. The conference will be hosted at University of Leeds on 9th – 12th April 2024.\nGISRUK attracts international researchers and practitioners in GIS and related fields to share and discuss the latest advances in spatial computing and analysis. The work presented at GISRUK covers a range of methodological approaches and application areas, including: geographic data science, geocomputation, applied statistics, geography, health, urban and transport planning, crime science.\nWe welcome papers covering all aspects of GIS, both methodological and applied. There is also a theme for the 2024 conference – GIS for public good: data, theory, policy – around which keynotes and other activity will be structured.\nSee the Call for papers for details on how to submit.\nNew. We have agreed a Special Issue linked to the conference with Environment & Planning B: Urban Data/Code. Details can be found here. We encourage discrete Data/Code products that relate to the conference theme: GIS for public good: data, theory, policy. For information on the Urban Data/Code section, see Arribas-Bel et al.’s (2021) editorial."
+  },
+  {
+    "objectID": "index.html#key-dates",
+    "href": "index.html#key-dates",
+    "title": "GISRUK 2024 : University of Leeds",
+    "section": "Key Dates",
+    "text": "Key Dates\n\nPaper submission deadline: Monday 8th January 2024 Friday 19th January 2024\nPaper review notifications: Monday 12th February 2024 Monday 19th February 2024\nRegistration opens: January 2024\nECR workshops: 9th-10th April 2024\nConference: 10th-12th April 2024"
+  },
+  {
+    "objectID": "ecrs/index.html",
+    "href": "ecrs/index.html",
+    "title": "ECR Sessions",
+    "section": "",
+    "text": "Details to appear soon."
+  },
+  {
     "objectID": "registration/index.html",
     "href": "registration/index.html",
     "title": "Registration",
     "section": "",
     "text": "Details to appear soon."
-  },
-  {
-    "objectID": "program/index.html",
-    "href": "program/index.html",
-    "title": "Conference Programme",
-    "section": "",
-    "text": "Detals to appear soon."
   }
 ]
