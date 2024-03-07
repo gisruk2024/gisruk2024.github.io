@@ -2,38 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://2024.gisruk.org/venue/index.html</loc>
-    <lastmod>2024-03-01T16:41:59.615Z</lastmod>
+    <lastmod>2024-03-07T14:15:34.534Z</lastmod>
   </url>
   <url>
-    <loc>https://2024.gisruk.org/keynotes/index.html</loc>
-    <lastmod>2024-03-01T16:41:59.555Z</lastmod>
-  </url>
-  <url>
-    <loc>https://2024.gisruk.org/cfp/index.html</loc>
-    <lastmod>2024-03-01T16:41:59.487Z</lastmod>
-  </url>
-  <url>
-    <loc>https://2024.gisruk.org/registration/index.html</loc>
-    <lastmod>2024-03-01T16:41:59.615Z</lastmod>
+    <loc>https://2024.gisruk.org/ecrs/index.html</loc>
+    <lastmod>2024-03-07T14:15:34.426Z</lastmod>
   </url>
   <url>
     <loc>https://2024.gisruk.org/program/index.html</loc>
-    <lastmod>2024-03-01T16:41:59.563Z</lastmod>
+    <lastmod>2024-03-07T14:15:34.498Z</lastmod>
   </url>
   <url>
-    <loc>https://2024.gisruk.org/index.html</loc>
-    <lastmod>2024-03-01T16:41:59.551Z</lastmod>
+    <loc>https://2024.gisruk.org/keynotes/index.html</loc>
+    <lastmod>2024-03-07T14:15:34.490Z</lastmod>
   </url>
   <url>
     <loc>https://2024.gisruk.org/si/index.html</loc>
-    <lastmod>2024-03-01T16:41:59.615Z</lastmod>
+    <lastmod>2024-03-07T14:15:34.534Z</lastmod>
   </url>
   <url>
-    <loc>https://2024.gisruk.org/organisation/index.html</loc>
-    <lastmod>2024-03-01T16:41:59.559Z</lastmod>
+    <loc>https://2024.gisruk.org/cfp/index.html</loc>
+    <lastmod>2024-03-07T14:15:34.426Z</lastmod>
   </url>
   <url>
     <loc>https://2024.gisruk.org/osgeo/index.html</loc>
-    <lastmod>2024-03-01T16:41:59.559Z</lastmod>
+    <lastmod>2024-03-07T14:15:34.494Z</lastmod>
+  </url>
+  <url>
+    <loc>https://2024.gisruk.org/organisation/index.html</loc>
+    <lastmod>2024-03-07T14:15:34.494Z</lastmod>
+  </url>
+  <url>
+    <loc>https://2024.gisruk.org/registration/index.html</loc>
+    <lastmod>2024-03-07T14:15:34.534Z</lastmod>
+  </url>
+  <url>
+    <loc>https://2024.gisruk.org/ecrs/index_draft.html</loc>
+    <lastmod>2024-03-07T14:15:34.426Z</lastmod>
+  </url>
+  <url>
+    <loc>https://2024.gisruk.org/index.html</loc>
+    <lastmod>2024-03-07T14:15:34.490Z</lastmod>
   </url>
 </urlset>
